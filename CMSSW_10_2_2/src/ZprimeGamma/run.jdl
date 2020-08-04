@@ -1,0 +1,11 @@
+universe = vanilla
+Requirements = (Arch == "X86_64")
++RUQueue = "cms"
++AccountingGroup = "group_rutgers.rsk146"
+Executable = run.sh
+should_transfer_files = NO
+Output = /users/h2/rsk146/CMSSW_10_2_2/src/ZprimeGamma/condor_logfiles/tree_$(cluster)_$(process).stdout
+Error  = /users/h2/rsk146/CMSSW_10_2_2/src/ZprimeGamma/condor_logfiles/tree_$(cluster)_$(process).stderr
+Log    = /users/h2/rsk146/CMSSW_10_2_2/src/ZprimeGamma/condor_logfiles/tree_$(cluster)_$(process).condor
+Arguments = $(cluster) $(process) 
+Queue 4
