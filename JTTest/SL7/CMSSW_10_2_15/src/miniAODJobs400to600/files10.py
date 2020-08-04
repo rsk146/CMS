@@ -1,0 +1,10 @@
+A=("root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/51C13389-6FC9-E24B-87A1-FEC23B74E19B.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/BCB9BB32-78B5-DF47-8E6F-DFBDE901B69E.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/175DD57A-20BA-1846-853D-1CD8A7E19472.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/A63066BB-9FD6-4645-90E1-AAD5E5B52403.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/D8007DB4-4BE1-1F40-BD75-12A22755F231.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/2F79ABB9-2609-3540-B064-8278823B6BB1.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/4B07D348-75CE-1147-94C1-C314C8468ECD.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/708DDC89-1F96-FA46-A2D3-E2CD2ADE7579.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/AD50650F-56B8-E048-89A2-325EE3047F64.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15-v1/120000/09E08E15-C58F-3142-81BA-99290C0B2A59.root")

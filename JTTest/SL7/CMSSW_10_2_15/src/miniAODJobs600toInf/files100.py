@@ -1,0 +1,10 @@
+A=("root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/1B861C76-14D2-BA41-8B4E-B5C5230CD08E.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/552FF14E-5D29-5E4F-A867-2C4B49C1FB25.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/B7CA0F00-360F-2B48-AE25-9C613163067F.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/8059AB77-0A80-DD43-AA67-D7C78D03E389.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/2E69161E-F554-AB48-9484-B84F0446D02E.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/B79297D0-A8BD-B14E-AC03-573925D8DF16.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/3110224B-9865-F64F-AD4B-87DF1BE16519.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/5BE926DE-FB60-4E4C-92FC-24D75358D581.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/46A20310-1F79-B041-9C66-DD481580723D.root",
+"root://cms-xrd-global.cern.ch//store/mc/RunIIAutumn18MiniAOD/GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/102X_upgrade2018_realistic_v15_ext1-v2/120000/35FF0AE9-D246-CE4C-A753-E6748C20FBA6.root")
